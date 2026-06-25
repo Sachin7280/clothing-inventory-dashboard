@@ -1,0 +1,6 @@
+{
+  "name": "Kapde Ki Dukan Dashboard",
+  "description": "A comprehensive responsive dashboard for apparel store owners to manage inventory, sales, customer ledgers (udhaar), employee attendance, salaries, expenses, and generate reports with print-friendly receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
